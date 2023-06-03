@@ -134,7 +134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Name: 
-  ViewPosition: {x: 0, y: 0, z: 0}
+  ViewPosition: {x: 0, y: 1.17, z: 0.12}
   Animations: 0
   ScaleIPD: 1
   lipSync: 3
@@ -841,7 +841,7 @@ Transform:
   m_GameObject: {fileID: 919132149477671377}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.15, y: 0.15, z: 0.15}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_Children:
   - {fileID: 8879528567039953909}
   - {fileID: 3743069824542427060}
